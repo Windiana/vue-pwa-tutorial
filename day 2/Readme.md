@@ -5,6 +5,9 @@ Task :
 2. Turn your web app to PWA ! Cek apabila di inspect - Application - Manifest, sudah menampilkan data dari manifest.json
 
 
+<hr />
+
+
 SESSION 2 - 
 slide : https://docs.google.com/presentation/d/1bFVDRa71JK0ilr6lS6y9Twqp9gy8jzV1O8FFbG4A3qk/edit#slide=id.p45
 
