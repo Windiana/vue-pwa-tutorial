@@ -4,6 +4,7 @@ slide : https://drive.google.com/open?id=17SLZ_OK-OiZ2xZK0Q3Tybnm-SPHuAGzCViPGIo
 Task : 
 (no task)
 
+<hr />
 
 SESSION 2 - Vue.js 
 slide : https://drive.google.com/open?id=1HmqK0UznqZh-Mot0IPb_3Dbkb81N-PoGgfuyczFh5oo
