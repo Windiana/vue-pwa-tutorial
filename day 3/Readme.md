@@ -4,6 +4,8 @@ slide : https://drive.google.com/open?id=1PLY8d8LoGnlld7Q4TgmLPw3X42hDHrWNO9HK-S
 Task : https://docs.google.com/document/d/1_Hm_839S_moK06SYclcRQzGeAaC0FEl1X5yHFGPKUzw/edit?usp=sharing
 
 
+<hr />
+
 
 SESSION 2 - Service Worker + Caching
 slide : https://docs.google.com/presentation/d/1yKsDW9wu5xbx2pXDKlSBTg7h1i48CoQd2A8QvHw-lag/edit#slide=id.p4
@@ -20,13 +22,13 @@ Prep : di custom.js, hapus comment createContent dan buatlah fetch request ke AP
 4. Implementasikan clear old caches
 
 
-Service Worker + Caching Strategies (networkWithCacheFallback_day3)
+**Service Worker + Caching Strategies (networkWithCacheFallback_day3)**
 1. Ketika offline saat ini menampilkan "the site cant be reached". Fix issue ini agar menampilkan offline.html 
 2. Implementasikan "Network falling back to cache"
   - apabila sebelumnya km mengimplementasikan "Cache falling back to the network", sekarang implementasikan "Network falling back to cache" 
 
 
-Cache then network
+**Cache then network**
 1. Pertama, sesuai strategi nya, kita tambahkan cache dulu di custom.js
 2. Kedua, implementasikan network strategy menggunakan fetch di custom.js 
 3. Apabila step 1 & 2 sudah selesai, ketika reload di web, akan menampilkan 2 content. Refactor code agar content tidak duplicate 

@@ -6,6 +6,9 @@ Task :
 2. Refactor code, yang sebelumnya mengambil data json dari cache sekarang mengambil data dari indexedDB 
 
 
+<hr />
+
+
 SESSION 2 - Responsive UI
 slide : https://drive.google.com/open?id=1Gkx_c7vLHleRUuuaJtAHIqNU8Hb2Mxsn6tcA2EID6c8
 
